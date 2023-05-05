@@ -1,5 +1,3 @@
-# veloqc
+# Aide-mémoire légal pour le vélo
 
-Author: Mathieu Rousseau
-
-License: GPLv3
+(au Québec)
