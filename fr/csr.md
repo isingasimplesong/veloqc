@@ -1,6 +1,6 @@
 # Code de la sécurité routière
 
-## Quelques articles pertinent pour les cyclistes au Québec.
+## Quelques articles pertinents pour les cyclistes au Québec
 
 
 ### **Article 359 - feux piétons**
