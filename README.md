@@ -2,4 +2,4 @@
 
 (au Québec)
 
-![banner](../img/banner.png)
+![banner](/img/banner.png)
