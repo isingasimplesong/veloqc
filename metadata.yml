@@ -1,8 +1,8 @@
 ---
-title: "Mon Livret"
-author: "Votre Nom"
-toc: true
-toc-depth: 2
+# title: "Mon Livret"
+# author: "Votre Nom"
+# toc: true
+# toc-depth: 2
 # papersize: letter
 geometry: "paperwidth=5.5in, paperheight=8.5in"
 ---
